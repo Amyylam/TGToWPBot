@@ -1,6 +1,9 @@
 # TGToWPBot
 A Telegram conversation bot that can gather info and photos posted by Telegram and post to a Wordpress.com blog
 
+# Demo Video
+[![Watch the video on Youtube]](https://youtu.be/0uMy196k3xE)
+
 
 # Copyright
 ------------
